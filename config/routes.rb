@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root 'review#sample'
+  root 'review#company'
 end
